@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Hi, I'm Tran Minh Hoa — Backend Developer
 
-<!--
-**hoahayhoi/hoahayhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Ho Chi Minh City, Vietnam  
+📞 Phone: 055 992 7849  
+📧 Email: [hoa.tmh2003@gmail.com](mailto:hoa.tmh2003@gmail.com)  
+🌐 GitHub: [github.com/hoahayhoi](https://github.com/hoahayhoi)  
+💼 LinkedIn: [minhhoatran763](https://www.linkedin.com/in/minhhoatran763)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Overview
+
+I'm a passionate **Backend Developer** with experience in building scalable APIs, designing robust database schemas, and delivering reliable backend solutions.  
+I have hands-on experience with **NestJS**, **Node.js**, **PostgreSQL**, and **MongoDB**, as well as CI/CD setup and cloud integration (AWS S3).
+
+My work focuses on:
+- Translating business requirements into efficient backend workflows.
+- Ensuring clean architecture and maintainable code.
+- Improving system performance, security, and reliability.
+- Collaborating closely with cross-functional teams to deliver seamless user experiences.
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** JavaScript, TypeScript  
+**Frameworks / Platforms:** NestJS, ExpressJS, Node.js, WebSocket, GraphQL, Swagger, RESTful API  
+**Databases:** PostgreSQL, MongoDB, MySQL, SQL Server, Redis  
+**Tools:** VS Code, GitHub, GitLab, Docker, Postman, Jira, Trello  
+**Others:** CI/CD setup, VPS management (PM2, Nginx), AWS S3 (secure file storage)  
+**Languages:** English (TOEIC L&R: 680, TOEIC S&W: 300)  
+
+---
+
+## 📌 Featured Project
+
+### **Bao Tri Thiet Bi Dien** (Appliance Repair Booking App)  
+**Platforms:** CH Play & App Store  
+**Stack:** NestJS, RESTful API, WebSocket, Prisma, PostgreSQL, NextJS, Flutter  
+**Role:** Backend Developer (Team size: 7)  
+
+**Highlights:**
+- Designed and implemented database schema with migration/seeding.
+- Integrated **WebSocket** for real-time updates on admin dashboard.
+- Developed **notification system** with FCM, BullMQ, Redis, and scheduled jobs.
+- Configured **CI/CD pipelines** using GitHub Actions and webhooks.
+- Implemented automated database backups for data safety.
+
+---
+
+## 🎓 Education
+**Ho Chi Minh City University of Industry and Trade** (Sep 2021 – Dec 2024)  
+Software Engineering — GPA: 3.22  
+
+---
+
+## 🏆 Honors & Awards
+- 🥇 **First place** — *Young Coders Competition: Finding the Best and Brightest*  
+- 🎓 **Academic Scholarship** — 2021, 2022, 2023  
+
+---
