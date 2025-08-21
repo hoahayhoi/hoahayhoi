@@ -3,7 +3,6 @@
 📍 Ho Chi Minh City, Vietnam  
 📞 Phone: 055 992 7849  
 📧 Email: [hoa.tmh2003@gmail.com](mailto:hoa.tmh2003@gmail.com)  
-🌐 GitHub: [github.com/hoahayhoi](https://github.com/hoahayhoi)  
 💼 LinkedIn: [minhhoatran763](https://www.linkedin.com/in/minhhoatran763)
 
 ---
