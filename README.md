@@ -1,9 +1,20 @@
 # 👋 Hi, I'm Tran Minh Hoa — Backend Developer
 
 📍 Ho Chi Minh City, Vietnam  
-📞 Phone: 055 992 7849  
-📧 Email: [hoa.tmh2003@gmail.com](mailto:hoa.tmh2003@gmail.com)  
-💼 LinkedIn: [minhhoatran763](https://www.linkedin.com/in/minhhoatran763)
+
+---
+
+### 📫 Contact Me
+
+<a href="mailto:hoa.tmh2003@gmail.com">
+  <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Gmail" width="40" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/minhhoatran763" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="tel:+84559927849">
+  <img src="https://img.icons8.com/color/48/000000/phone.png" alt="Phone" width="40" height="40"/>
+</a>
 
 ---
 
@@ -22,11 +33,11 @@ My work focuses on:
 
 ## 🛠 Technical Skills
 
-**Languages:** JavaScript, TypeScript  
-**Frameworks / Platforms:** NestJS, ExpressJS, Node.js, WebSocket, GraphQL, Swagger, RESTful API  
+**Languages:** JavaScript, TypeScript, Python, Java, C#
+**Frameworks / Platforms:** Node.js, NestJS, ExpressJS, Spring Boot, .NET Core,Swagger, WebSocket, GraphQL  
 **Databases:** PostgreSQL, MongoDB, MySQL, SQL Server, Redis  
-**Tools:** VS Code, GitHub, GitLab, Docker, Postman, Jira, Trello  
-**Others:** CI/CD setup, VPS management (PM2, Nginx), AWS S3 (secure file storage)  
+**Cloud & Tools:** AWS, Azure, AWS S3, Docker, GitHub Actions / GitLab CI/CD / Jenkins, PM2, Nginx, Postman, Jira, Trello  
+**Others:** API Integration, Secure File Storage, VPS Management, Unit/Integration Testing (Jest, JUnit)  
 **Languages:** English (TOEIC L&R: 680, TOEIC S&W: 300)  
 
 ---
@@ -45,7 +56,7 @@ My work focuses on:
 - Designed and implemented database schema with migration/seeding.
 - Integrated **WebSocket** for real-time updates on admin dashboard.
 - Developed **notification system** with FCM, BullMQ, Redis, and scheduled jobs.
-- Configured **CI/CD pipelines** using GitHub Actions and webhooks.
+- Configured **CI/CD pipelines** using Jenkins and webhooks.
 - Implemented automated database backups for data safety.
 
 ---
