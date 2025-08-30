@@ -35,8 +35,8 @@ My work focuses on:
 **Stack:** NestJS, RESTful API, WebSocket, Prisma, PostgreSQL, NextJS, Flutter  
 **Role:** Backend Developer 
 
-[![Play Store](https://img.shields.io/badge/Google%20Play-black?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dien_lanh_khoa_van.app&pli=1)
-[![App Store](https://img.shields.io/badge/App%20Store-black?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/b%E1%BA%A3o-tr%C3%AC-thi%E1%BA%BFt-b%E1%BB%8B-%C4%91i%E1%BB%87n/id6748032628?platform=iphone)
+[![Play Store](https://img.shields.io/badge/Google%20Play-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dien_lanh_khoa_van.app&pli=1)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/b%E1%BA%A3o-tr%C3%AC-thi%E1%BA%BFt-b%E1%BB%8B-%C4%91i%E1%BB%87n/id6748032628?platform=iphone)
 
 **Highlights:**
 - Designed and implemented database schema with migration/seeding.
