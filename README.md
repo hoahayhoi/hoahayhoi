@@ -6,8 +6,8 @@
 
 ## 🚀 Overview
 
-I'm a passionate **Backend Developer** with experience in building scalable APIs, designing robust database schemas, and delivering reliable backend solutions.  
-I have hands-on experience with **NestJS**, **Node.js**, **PostgreSQL**, and **MongoDB**, as well as CI/CD setup and cloud integration (AWS S3).
+I’m a dedicated **Backend Developer** with strong expertise in designing and implementing scalable backend systems, secure APIs, and robust database architectures.  
+With hands-on experience in **Node.js**, **NestJS**, **Spring Boot**, and **.NET Core**, I build solutions that balance **performance, security, and maintainability**.  
 
 My work focuses on:
 - Translating business requirements into efficient backend workflows.
@@ -15,6 +15,7 @@ My work focuses on:
 - Improving system performance, security, and reliability.
 - Collaborating closely with cross-functional teams to deliver seamless user experiences.
 
+I thrive on solving complex problems, improving system reliability, and continuously learning new technologies to deliver **impactful backend solutions**.
 ---
 
 ## 🛠 Technical Skills
