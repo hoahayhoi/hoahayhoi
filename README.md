@@ -1,13 +1,8 @@
 # 👋 Hi, I'm Tran Minh Hoa — Backend Developer
 
-📍 Ho Chi Minh City | 📞 055 9927849 | ✉️ hoa.tmh2003@gmail.com 
-
----
-
-### 🌐 Connect with Me
-
+📍 Ho Chi Minh City | 📞 055 992 7849 | ✉️ hoa.tmh2003@gmail.com 
 <a href="https://www.linkedin.com/in/minhhoatran763" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/24/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle; margin-left:8px"/>
 </a>
 
 ---
