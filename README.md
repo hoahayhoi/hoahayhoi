@@ -13,8 +13,7 @@ My work focuses on:
 - Translating business requirements into efficient backend workflows.
 - Ensuring clean architecture and maintainable code.
 - Improving system performance, security, and reliability.
-- Collaborating closely with cross-functional teams to deliver seamless user experiences.
-
+- Collaborating closely with cross-functional teams to deliver seamless user experiences.  
 I thrive on solving complex problems, improving system reliability, and continuously learning new technologies to deliver **impactful backend solutions**.
 ---
 
