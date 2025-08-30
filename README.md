@@ -19,7 +19,7 @@ My work focuses on:
 
 ## 🛠 Technical Skills
 
-**Languages:** JavaScript, TypeScript, Python, Java, C#
+**Languages:** JavaScript, TypeScript, Python, Java, C#  
 **Frameworks / Platforms:** Node.js, NestJS, ExpressJS, Spring Boot, .NET Core,Swagger, WebSocket, GraphQL  
 **Databases:** PostgreSQL, MongoDB, MySQL, SQL Server, Redis  
 **Cloud & Tools:** AWS, Azure, AWS S3, Docker, GitHub Actions / GitLab CI/CD / Jenkins, PM2, Nginx, Postman, Jira, Trello  
